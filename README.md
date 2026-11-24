@@ -2,7 +2,6 @@
 
 Seberapa timpang emisi karbon dioksida (CO2) antarnegara, dan apakah negara yang lebih makmur otomatis mengeluarkan lebih banyak CO2 per penduduk? Proyek ini menjawabnya dengan peta, dari data nyata, dan semuanya bisa dijalankan ulang.
 
-Tugas Sub-CLO-12-2-2, mata kuliah Visualisasi Data. Penulis: Muhammad Aulia Muzzaki Nugraha (2311102051, IF-11-02).
 
 ![Animasi emisi CO2 per kapita 1990 sampai 2022](outputs/figures/08_animasi_co2_per_kapita_1990_2022.gif)
 
@@ -47,7 +46,7 @@ Semua gambar ada di [outputs/figures/](outputs/figures/), dan satu PDF berisi se
 ```
 notebooks/       notebook lengkap (dengan penjelasan) dan notebook ringkas (kode saja)
 scripts/         download_data.py, pengunduh data mandiri
-data/raw/        berkas unduhan apa adanya (tidak dilacak git)
+data/raw/        berkas unduhan apa adanya (ikut disimpan; diunduh ulang otomatis bila hilang)
 data/processed/  hasil penyaringan dan penggabungan (GeoJSON dan CSV)
 outputs/         PDF kumpulan gambar dan folder figures/ (PNG 200 dpi dan GIF)
 docs/            dokumen deklarasi penggunaan AI
