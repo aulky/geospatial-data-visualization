@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data mentah diunduh ulang oleh scripts/download_data.py (berkas OWID sekitar 21 MB)
+data/raw/*
+!data/raw/.gitkeep

@@ -1,0 +1,15 @@
+geopandas==1.2.0
+geoplot==0.5.1
+cartopy==0.26.0
+mapclassify==2.11.0
+shapely==2.2.0
+matplotlib==3.11.2
+pandas==3.1.1
+numpy==2.5.5
+requests==2.34.2
+imageio==2.38.2
+pillow==13.0.0
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2
+jupyter==1.1.1
